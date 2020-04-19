@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://www.uol.com.br",
+      "name": "Paulo",
+      "birth": 247100630400000,
+      "gender": "M",
+      "services": "War",
+      "created_at": 1587299199427
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://www.brasil2000.com.br",
+      "name": "Megadeth",
+      "birth": 177675379200000,
+      "gender": "M",
+      "services": "Workout",
+      "created_at": 1587299528571
+    }
+  ]
+}
