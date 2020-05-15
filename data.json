@@ -1,18 +1,33 @@
 {
-  "instructors": [
-    {
-      "id": 1,
-      "avatar_url": "http://www.uol.com.br",
-      "name": "Paulo",
-      "birth": 247100630400000,
-      "gender": "M",
-      "services": "War",
-      "created_at": 1587299199427
-    },
+  "members": [
     {
       "id": 2,
-      "avatar_url": "http://www.brasil2000.com.br",
-      "name": "Megadeth",
+      "avatar_url": "https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Tavia",
+      "email": "taviala@gmail.com",
+      "birth": 1589155200000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "68",
+      "height": "160"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=857&q=80",
+      "name": "Fernandia",
+      "email": "fernan@gmail.com",
+      "birth": 12268800000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "65",
+      "height": "165"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "MMegadeth",
       "birth": 177675379200000,
       "gender": "M",
       "services": "Workout, Musculação, Natação",
@@ -22,14 +37,14 @@
       "id": 3,
       "avatar_url": "https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-1/p160x160/42777384_2223879304352075_3361348406369845248_n.jpg?_nc_cat=109&_nc_sid=dbb9e7&_nc_ohc=ckFKleX4DBEAX81VkCV&_nc_ht=scontent-amt2-1.xx&_nc_tp=6&oh=03cb43413ee813133ba064a79784af03&oe=5EC08E7F",
       "name": "Dna",
-      "birth": 1592956800000,
+      "birth": 958867200000,
       "gender": "M",
       "services": "Tudo",
       "created_at": 1587495321598
     },
     {
       "id": 4,
-      "avatar_url": "http://www.uol.com",
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
       "name": "Dani",
       "birth": 468115200000,
       "gender": "M",
@@ -38,7 +53,7 @@
     },
     {
       "id": 5,
-      "avatar_url": "http://google.com.br",
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=343&q=80",
       "name": "Danilson",
       "birth": 470707200000,
       "gender": "M",
@@ -53,6 +68,15 @@
       "gender": "M",
       "services": "Arte marcial",
       "created_at": 1587574985162
+    },
+    {
+      "id": 7,
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Mayk Brito",
+      "birth": 949363200000,
+      "services": "Crossfit",
+      "created_at": 1587754681687,
+      "gender": "M"
     }
   ]
 }
